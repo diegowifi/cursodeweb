@@ -1,0 +1,58 @@
+body{
+	background-color:#483D8B;
+	color:white;
+	font-family: Arial;
+}
+
+header{
+	background-color: #cea718;
+	width: 90%;
+	margin:0 auto;
+	height: 150px;
+}
+
+h1{
+	padding: 20px;
+}
+
+.porciento{
+	width: 50%;
+	height: 50%;
+}
+
+nav{
+list-style:none;
+background-color: white;
+width:90%;
+margin:0 auto;
+}
+
+ul{
+padding:15px;
+}
+
+nav li{
+    display:inline;
+    padding: 15px;
+}
+
+a{
+	text-decoration: none;
+	color:green;
+}
+
+a:hover{
+	background-color: gray;
+	color:white;
+	padding:16px; 
+
+}
+
+section{
+	width: 90%;
+	height:500px;
+	margin:0 auto;
+}
+
+
+/*Comentarios en CSS!*/
